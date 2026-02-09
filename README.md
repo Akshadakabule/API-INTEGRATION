@@ -19,15 +19,15 @@ Users can search for a city, and the webpage dynamically loads the latest weathe
 The project demonstrates API integration, dynamic data handling, and responsive web design using core web technologies.In real-world scenarios, this project can be used for checking daily weather conditions, travel planning, and location-based weather monitoring, and it also serves as a practical example for learning how real-time data is fetched and displayed in modern web applications.
 
 # Technologies used
-HTML – Structure of the webpage
-CSS – Styling and responsive layout
-JavaScript – Fetching API data and DOM manipulation
-Open Meteo Public API – Real time weather data
+-HTML – Structure of the webpage
+-CSS – Styling and responsive layout
+-JavaScript – Fetching API data and DOM manipulation
+-Open Meteo Public API – Real time weather data
 
 # Features
-Search weather for any city worldwide
-Fetches live weather data dynamically
-Responsive design (works on mobile, tablet, and desktop)
-No API key required
-Clean and user-friendly UI
-Geocoding API – Convert city names into latitude & longitude
+-Search weather for any city worldwide
+-Fetches live weather data dynamically
+-Responsive design (works on mobile, tablet, and desktop)
+-No API key required
+-Clean and user friendly UI
+-Geocoding API – Convert city names into latitude & longitude
