@@ -31,3 +31,7 @@ The project demonstrates API integration, dynamic data handling, and responsive 
 -No API key required
 -Clean and user friendly UI
 -Geocoding API – Convert city names into latitude & longitude
+
+# Output:-
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0d11a16e-29ad-4b5c-87cc-1a6158d28fca" />
